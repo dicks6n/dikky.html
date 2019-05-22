@@ -1,0 +1,16 @@
+<html>
+<head>
+<style>
+#para1 {
+  color: red;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+
+<p id="para1">These paragraphs are styled with CSS.</p>
+
+</body>
+</html>
